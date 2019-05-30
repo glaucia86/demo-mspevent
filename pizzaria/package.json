@@ -1,0 +1,29 @@
+{
+  "name": "pizzaria",
+  "version": "1.0.0",
+  "description": "Repositório responsable por las demos del evento Data Day Mexico 2019",
+  "main": "pizzariaItaliana.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glaucia86/demo-satc-nlp-chatbot.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "chatbots",
+    "bot-framework",
+    "nodejs",
+    "luis"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/demo-satc-nlp-chatbot/issues"
+  },
+  "homepage": "https://github.com/glaucia86/demo-satc-nlp-chatbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "dotenv-extended": "^2.3.0",
+    "moment": "^2.24.0",
+    "restify": "^6.3.4"
+  }
+}
