@@ -4,11 +4,12 @@ Repositório responsável das demos durante o evento  **[MSP Tech Days 2019 @ S�
 
 ## Recursos Utilizados ⭐️⭐️
 
-- [Node.js](https://nodejs.org/en/)
-- [Bot Framework Emulator v.3](https://github.com/Microsoft/BotFramework-Emulator/releases)
-- [Luis.ai](https://luis.ai/home)
-- [Yeoman.io](https://yeoman.io/)
-- [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=mspevent-github-gllemos)
+- **[Node.js](https://nodejs.org/en/)**
+- **[Bot Framework Emulator v.3](https://github.com/Microsoft/BotFramework-Emulator/releases)**
+- **[Luis.ai](https://luis.ai/home)**
+- **[Yeoman.io](https://yeoman.io/)**
+- **[Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=mspevent-github-gllemos)**
+- **[Azure for Students for Free](https://aka.ms/azure-for-students-gratis)**
 
 ## Executando as demos de maneira local 💥💥
 
