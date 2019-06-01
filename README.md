@@ -70,6 +70,8 @@ Abaixo segue alguns cursos que eu recomendo:
 
 - **[Criar um chatbot com o Serviço de Bot do Azure](https://docs.microsoft.com/pt-br/learn/modules/build-chat-bot-with-azure-bot-service/?wt.mc_id=mspevent-github-gllemos)**
 
+- **[Adicione inteligência de conversação aos seus aplicativos usando o LUIS (Serviço Inteligente de Reconhecimento Vocal)](https://docs.microsoft.com/pt-br/learn/modules/create-and-publish-a-luis-model/?wt.mc_id=mspevent-github-gllemos)**
+
 
 ## Dúvidas?! ❓
 
