@@ -11,6 +11,10 @@ Repositório responsável das demos durante o evento  **[MSP Tech Days 2019 @ S�
 - **[Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=mspevent-github-gllemos)**
 - **[Azure for Students for Free](https://aka.ms/azure-for-students-gratis)**
 
+
+p.s.: O **[Azure for Students for Free](https://aka.ms/azure-for-students-gratis)** só está disponível para estudantes que estão cursando a Faculdade. 
+Para os demais que não estão na Faculdade, bastam acessar o site do **[Portal Azure](https://azure.microsoft.com/pt-br/features/azure-portal/?wt.mc_id=mspevent-github-gllemos)**
+
 ## Executando as demos de maneira local 💥💥
 
 #### Demo: EchoBot - Bot Emulator v.4
